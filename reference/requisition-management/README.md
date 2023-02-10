@@ -1,12 +1,11 @@
+---
+description: This section describes all objects for Requisition Management
+---
+
 # Requisition Management
 
-This section describes all objects for Requisition
+## Purchase Request
 
----
-description: This details the PR Object and Methods
----
-
-# Purchase Request
-# Purchase Request Object
+## Purchase Request Object
 
 This is object defn
