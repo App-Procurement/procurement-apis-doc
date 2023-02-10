@@ -1,3 +1,10 @@
+
+# Purchase Request
+
+## The Purchase Request Object
+
+## Create a Purchase Request
+
 <style>
   .card-container {
     display: flex;
@@ -44,12 +51,6 @@
     overflow-y: auto;
   }
 </style>
-
-# Purchase Request
-
-## The Purchase Request Object
-
-## Create a Purchase Request
 
 <table>
   <tr>
