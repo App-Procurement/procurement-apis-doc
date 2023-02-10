@@ -3,7 +3,7 @@
 * [Welcome!](README.md)
 * [Quick Start](quick-start.md)
 * [Resources](resources/README.md)
-  * [Purchase Request](resources/requisition-management.md)
+  * [Purchase Request](resources/purchase-request.md)
 
 ## Reference
 
