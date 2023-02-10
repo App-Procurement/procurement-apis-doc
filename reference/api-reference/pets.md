@@ -60,3 +60,14 @@ The breed of the pet
 {% endhint %}
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>sdddd</td><td></td></tr><tr><td></td><td>dddd</td><td></td></tr><tr><td></td><td>ddd</td><td></td></tr><tr><td>sssss</td><td>ssssss</td><td></td></tr></tbody></table>
+
+{% tabs %}
+{% tab title="First Tab" %}
+sssss
+{% endtab %}
+
+{% tab title="Second Tab" %}
+ssssss
+{% endtab %}
+{% endtabs %}
+
