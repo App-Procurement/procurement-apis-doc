@@ -1,8 +1,8 @@
 # Welcome!
 
-## Welcome to MyAPI
+## Welcome to Procurement Aplication API
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+The procurement API is organized around [REST](http://en.wikipedia.org/wiki/Representational\_State\_Transfer). Our API has predictable resource-oriented URLs, accepts [form-encoded](https://en.wikipedia.org/wiki/POST\_\(HTTP\)#Use\_for\_submitting\_web\_forms) request bodies, returns [JSON-encoded](http://www.json.org/) responses, and uses standard HTTP response codes, authentication, and verbs.
 
 ## Want to jump right in?
 
