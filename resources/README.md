@@ -1,9 +1,11 @@
 # Resources
 
-# Purchase Request
+## Resources
 
-## Purchase Request Object
+## Purchase Request
 
-## Create Purchase Request 
+### The Purchase Request Object
 
-## Update Purchase Request 
+### Create a Purchase Request
+
+### Update Purchase Request
