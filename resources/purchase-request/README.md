@@ -1,10 +1,11 @@
-
 # Purchase Request
 
 ## The Purchase Request Object
 
 ## Create a Purchase Request
 
+```html
+// Some code
 <style>
   .card-container {
     display: flex;
@@ -80,5 +81,6 @@
   </tr>
 </table>
 
+```
 
 ## Update a Purchase Request

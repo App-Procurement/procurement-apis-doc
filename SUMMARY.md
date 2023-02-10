@@ -4,9 +4,8 @@
 * [Quick Start](quick-start.md)
 * [Resources](resources/README.md)
   * [Purchase Request](resources/purchase-request/README.md)
-    * [The Purchase Request Object](https://app.gitbook.com/s/dJLl4BuK4z88FaR8MFGs/resources/purchase-request#the-purchase-request-object)
-    * [Create a Purchase Request](https://app.gitbook.com/s/dJLl4BuK4z88FaR8MFGs/resources/purchase-request#create-a-purchase-request)
-    * [Update a Purchase Request](https://app.gitbook.com/s/dJLl4BuK4z88FaR8MFGs/resources/purchase-request#update-a-purchase-request)
+    * [Create a Purchase Request](resources/purchase-request/README.md)
+    * [Update a Purchase Request](resources/purchase-request/README.md)
 
 ## Reference
 
