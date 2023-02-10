@@ -25,20 +25,24 @@
      </tr>
      <tr>
        <td>
-       sjdjdjddjdjdjdj
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.
        </td>
         <td> 
             <table >
             <tr>
                 <meta name="viewport" content="width=device-width, initial-scale=1">
-                <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-                <div class="w3-card">
-                    <h1>Tailored Jeans</h1>
-                    <p>w3-card</p>
+                <div class="dark-card-header" style="background-color: #4F566B;color: #fff;padding: height: 200px;overflow-y: auto;">
+                    Card Header
                 </div>
-            </tr><br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.
+                </div>
+            </tr>
             <tr>
-                sdjdjdjdjdjdjsss
+                <div class="dark-card-header" style="background-color: #4F566B;color: #fff;padding: height: 200px;overflow-y: auto;">
+                    Card Header
+                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit. Sed vel tempor nulla. Ut auctor mi ac varius facilisis.Lorem 
+                </p>
             </tr>
             </table>
         </td>
