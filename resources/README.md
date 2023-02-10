@@ -1,7 +1,5 @@
 # Resources
 
-## Resources
-
 ## Purchase Request
 
 ### The Purchase Request Object
