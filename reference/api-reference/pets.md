@@ -58,3 +58,5 @@ The breed of the pet
 {% hint style="info" %}
 **Good to know:** This API method was auto-generated from an example Swagger file. You'll see that it's not editable – that's because the contents are synced to a URL! Any time the linked file changes, the documentation will change too.
 {% endhint %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>sdddd</td><td></td></tr><tr><td></td><td>dddd</td><td></td></tr><tr><td></td><td>ddd</td><td></td></tr><tr><td>sssss</td><td>ssssss</td><td></td></tr></tbody></table>
