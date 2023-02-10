@@ -1,17 +1,18 @@
 # Purchase Request
 
-### The Purchase Request Object
+## The Purchase Request Object
 
-### Create a Purchase Request
+## Create a Purchase Request
 
-### Update a Purchase Request
 
-### Delete a Purchase Request
+## Update a Purchase Request
 
-### Approve a Purchase Request
+## Delete a Purchase Request
 
-### Reject a Purchase Request
+## Approve a Purchase Request
 
-### List All Purchase Requests
+## Reject a Purchase Request
 
-### Search Purchase Requests
+## List All Purchase Requests
+
+## Search Purchase Requests
