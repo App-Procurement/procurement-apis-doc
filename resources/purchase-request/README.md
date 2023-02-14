@@ -5,16 +5,11 @@
         <tr>
             <td>This object represents a customer of your business. It lets you create recurring charges and track payments that belong to the same customer.</td>
             <td>
-            <a href="https://stripe.com/docs/api/customers#create_customer">  POST /v1/customers</a>
-            
+            <a href="https://stripe.com/docs/api/customers#create_customer">  POST /v1/customers</a> 
             <a href="https://stripe.com/docs/api/customers#retrieve_customer">   GET /v1/customers/:id</a>
-
             <a href="https://stripe.com/docs/api/customers#update_customer">  POST /v1/customers/:id</a>
-
             <a href="https://stripe.com/docs/api/customers#delete_customer">DELETE /v1/customers/:id</a>
-
             <a href="https://stripe.com/docs/api/customers#list_customers">   GET /v1/customers</a>
-            
             <a href="https://stripe.com/docs/api/customers#search_customers">   GET /v1/customers/search</a>
             </td>
         </tr>
