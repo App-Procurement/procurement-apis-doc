@@ -23,7 +23,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /notification/:id
 - DELETE /notification/:id
 - POST /notification/deactivate/:id
-- POST /notification/approve/:id
 - GET /notification
 
 3. Contact API
@@ -31,7 +30,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /contact/:id
 - DELETE /contact/:id
 - POST /contact/deactivate/:id
-- POST /contact/approve/:id
 - GET /contact
 
 4. Department API
@@ -39,7 +37,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /department/:id
 - DELETE /department/:id
 - POST /department/deactivate/:id
-- POST /department/approve/:id
 - GET /department
 
 5. Company Profile API
@@ -47,7 +44,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /company_profile/:id
 - DELETE /company_profile/:id
 - POST /company_profile/deactivate/:id
-- POST /company_profile/approve/:id
 - GET /company_profile
 
 6. Approvers API
@@ -63,7 +59,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /quotation/:id
 - DELETE /quotation/:id
 - POST /quotation/deactivate/:id
-- POST /quotation/approve/:id
 - GET /quotation
 
 8. Purchase Order API
@@ -71,7 +66,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /purchase_order/:id
 - DELETE /purchase_order/:id
 - POST /purchase_order/deactivate/:id
-- POST /purchase_order/approve/:id
 - GET /purchase_order
 
 9. Invoice API
@@ -79,7 +73,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /invoice/:id
 - DELETE /invoice/:id
 - POST /invoice/deactivate/:id
-- POST /invoice/approve/:id
 - GET /invoice
 
 10. Currency API
@@ -87,7 +80,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /currency/:id
 - DELETE /currency/:id
 - POST /currency/deactivate/:id
-- POST /currency/approve/:id
 - GET /currency
 
 11. Product API
@@ -95,7 +87,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /product/:id
 - DELETE /product/:id
 - POST /product/deactivate/:id
-- POST /product/approve/:id
 - GET /product
 
 12. Request API
