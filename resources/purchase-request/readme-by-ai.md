@@ -15,7 +15,6 @@ Here's a list of APIs with endpoints for each entity you mentioned:
 - PUT /kanban/:id
 - DELETE /kanban/:id
 - POST /kanban/deactivate/:id
-- POST /kanban/approve/:id
 - GET /kanban
 
 2. Notification API
